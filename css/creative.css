@@ -20,12 +20,12 @@ hr.light {
   border-color: white; }
 
 a {
-  color: #F05F40;
+  color: black;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   a:focus, a:hover {
-    color: #f05f40; }
+    color: #69625c; }
 
 h1,
 h2,
@@ -41,7 +41,7 @@ p {
   margin-bottom: 20px; }
 
 .bg-primary {
-  background-color: #F05F40 !important; }
+  background-color: #69625c !important; }
 
 .bg-dark {
   color: white;
