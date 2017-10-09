@@ -40,8 +40,8 @@ p {
   line-height: 1.5;
   margin-bottom: 20px; }
   
-  @media (min-width: 992px) {
-	.fa i{ 
+@media (min-width: 992px) {
+	.sr-icons{ 
 	padding-top:220px;
 	}
   }
